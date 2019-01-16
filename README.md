@@ -1,1 +1,1 @@
-# Deep-Learning-for-Vision-Regonition
+# Deep-Learning-for-Vision-Recognition
